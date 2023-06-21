@@ -1,7 +1,9 @@
 [![MasterHead](https://res.cloudinary.com/practicaldev/image/fetch/s--X8Q59V5M--/c_imagga_scale,f_auto,fl_progressive,h_420,q_66,w_1000/https://dev-to-uploads.s3.amazonaws.com/i/zu5cr0j2qczswka4wh39.gif)](http://ww25.rishavchanda.io/?subid1=20230619-1922-5639-8650-ddf425392f60)
 
 <h1 align="center">Hi 👋, I'm komal Ghule</h1>
-<h3 align="center">DevOps Enthusiastic. Experienced Deployment Engineer with 2 years of hands-on experience in managing and automating the deployment process of software applications. Skilled in configuring deployment infrastructure, implementing CI/CD pipelines, and ensuring high availability and scalability of applications.</h3>
+<h3 align="center">DevOps Enthusiastic.</h3>
+
+<h3  align="center"> Experienced Deployment Engineer with 2 years of hands-on experience in automating software deployment processes. Skilled in configuring deployment infrastructure, implementing CI/CD pipelines, and ensuring high availability and scalability of applications. Strong communicator and collaborator with a track record of optimizing efficiency and reliability. </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
 
