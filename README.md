@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm komal Ghule</h1>
 <h3 align="center">DevOps Enthusiastic.</h3>
 
-<h3  align="center"> Experienced Deployment Engineer with 2 years of hands-on experience in automating software deployment processes. Skilled in configuring deployment infrastructure, implementing CI/CD pipelines, and ensuring high availability and scalability of applications. Strong communicator and collaborator with a track record of optimizing efficiency and reliability. </h3>
+<h3  align="center"> Experienced Deployment Engineer with 3 years of hands-on experience in automating software deployment processes. Skilled in configuring deployment infrastructure, implementing CI/CD pipelines, and ensuring high availability and scalability of applications. Strong communicator and collaborator with a track record of optimizing efficiency and reliability. </h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
 
